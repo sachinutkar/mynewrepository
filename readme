@@ -2,6 +2,10 @@ This project is seriously awesome
 
 this project is my first git project.
 
+<<<<<<< HEAD
 i am commiting change to master
 by editing readme
 
+=======
+changing  in branch brnch  
+>>>>>>> brnch
